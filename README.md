@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Aryanvy21
-- 👀 I’m interested in .Data Science..
-- 🌱 I’m currently learning .Machine Learning Deep Learning Artificial Intelligence ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .Machine Learning, Deep Learning, Artificial Intelligence ..
 
 <!---
 Aryanvy21/Aryanvy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
